@@ -26,8 +26,8 @@ A fun, retro-style **video poker** game built in Python — complete with ASCII 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/USERNAME/video-poker.git
-   cd video-poker
+   git clone https://github.com/DicksterTheDick/videopoker.git
+   cd videopoker
    ```
 
 2. Run the game:
